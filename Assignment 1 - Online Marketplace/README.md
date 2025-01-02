@@ -5,11 +5,6 @@
 - **Encapsulation:** Understand the significance of private fields and public methods in managing class data.
 - **Problem Solving:** Apply concepts like object relationships, data manipulation, and calculations within a structured framework.
 
-The assignment encourages students to:
-- Think critically about class design decisions.
-- Appreciate the interrelations between classes.
-- Use tools like class diagrams to visualize relationships.
-
 ---
 
 ### **Computer Science Concepts Covered**
@@ -26,7 +21,7 @@ The assignment encourages students to:
 ---
 
 ### **Summary of the Problem to Solve**
-The problem involves simulating an **online marketplace** by designing a set of interrelated classes. Students must implement:
+The problem involves simulating an **online marketplace** by designing a set of interrelated classes. Project must implement:
 1. **Products** (`MarketProduct` and its subclasses: `Egg`, `Fruit`, `Jam`, `SeasonalFruit`).
    - Each subclass calculates the cost of the product differently, reflecting real-world pricing models.
 2. **Basket**: A collection of products with methods for adding, removing, calculating subtotals, taxes, and generating receipts.
@@ -36,5 +31,3 @@ The solution requires creating a functional and robust class hierarchy that ensu
 - Proper calculation of costs and taxes.
 - Valid operations on product collections (e.g., adding, removing, clearing).
 - Generating detailed receipts for transactions.
-
-By the end, students will have implemented a simplified marketplace system with a focus on clean, efficient, and organized code design.
