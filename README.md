@@ -1,4 +1,4 @@
-## Intro-To-Comp-Science
+## COMP-250 Intro To Comp Science
 
 - These assignments were part of **COMP 250** - Intro to Computer Science Course at **McGill University**.
 - Final Grade: **A**
